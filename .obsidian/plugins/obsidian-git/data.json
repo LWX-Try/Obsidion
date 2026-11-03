@@ -23,7 +23,7 @@
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
-  "treeStructure": true,
+  "treeStructure": false,
   "gitServerPasswordSecret": "",
   "refreshSourceControl": true,
   "basePath": "",
