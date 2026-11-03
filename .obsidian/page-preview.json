@@ -1,0 +1,8 @@
+{
+  "search": true,
+  "file-explorer": true,
+  "outline": true,
+  "graph": true,
+  "editor": true,
+  "properties": true
+}

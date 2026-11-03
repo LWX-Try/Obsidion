@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4528ed694deca28e","type":"file","file":"Obsidian深度使用教程/Obsidian深度用法.md","x":-40,"y":-460,"width":580,"height":480},
+		{"id":"2218dc5d7cc2ccac","type":"text","text":"你好，我是白板中的卡片。","x":-760,"y":-460,"width":250,"height":60},
+		{"id":"4c9e2e04d463aee8","type":"file","file":"Obsidian使用教程/attachment_of_image/插入的本地图片.png","x":-710,"y":-20,"width":400,"height":196}
+	],
+	"edges":[
+		{"id":"6ce7b18631cc9937","fromNode":"2218dc5d7cc2ccac","fromSide":"right","toNode":"4528ed694deca28e","toSide":"left","label":"你好，我是箭头\n在白板中，可以创立链接。"},
+		{"id":"6e2d201024237845","fromNode":"2218dc5d7cc2ccac","fromSide":"bottom","toNode":"4c9e2e04d463aee8","toSide":"top","label":"你好，我指向一个图片。"}
+	]
+}
