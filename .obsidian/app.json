@@ -1,10 +1,12 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "vimMode": false,
   "openBehavior": "",
   "useTab": false,
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "showLineNumber": false,
-  "attachmentFolderPath": "./attachment_of_image"
+  "attachmentFolderPath": "./attachment_of_image",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
