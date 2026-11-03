@@ -4,5 +4,6 @@
   "outline": true,
   "graph": true,
   "editor": true,
-  "properties": true
+  "properties": true,
+  "git-view": true
 }
